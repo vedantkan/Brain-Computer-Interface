@@ -10,3 +10,7 @@ Brain-Computer Interface for Unconscious appearing ICU Patients with or without 
 • Brain computer interfaces (BCI) may offer a communication channel for these patients
 
 • It is unclear if these patients would be able to activate a BCI and how this ability relates to CMD
+
+
+![2024_data_science_BCI](https://github.com/user-attachments/files/15585416/2024_data_science_BCI.pdf)
+
